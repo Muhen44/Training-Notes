@@ -7,5 +7,4 @@ goals=input("what are the goals for this project?")
 print(goals)
 country=input("enter your country")
 print(country)
-country2=input("enter your country")
-print(country2)
+
