@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebe6cd92-5e1d-4e62-a72d-92a51ccf739b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/screenshot1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello word.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello word.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
   <component name="ProjectId" id="1qncTzykJcTwHRojarjFRSvKM0u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -93,10 +95,18 @@
       <option name="project" value="LOCAL" />
       <updated>1617724085995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updates">
+      <created>1617724237879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617724237879</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updates" />
     <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
@@ -105,10 +115,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1617723406188" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1617724084631">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1617724236509">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1617724084631" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1617724236509" />
     <state width="288" height="442" key="Diff.GoToChangePopup" timestamp="1617723510629">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -121,30 +131,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617723694336" />
-    <state width="629" height="305" key="GridCell.Tab.0.bottom" timestamp="1617723635506">
+    <state width="629" height="305" key="GridCell.Tab.0.bottom" timestamp="1617724641881">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="305" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617723635506" />
-    <state width="629" height="305" key="GridCell.Tab.0.center" timestamp="1617723635506">
+    <state width="629" height="305" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617724641881" />
+    <state width="629" height="305" key="GridCell.Tab.0.center" timestamp="1617724641880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="305" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617723635506" />
-    <state width="629" height="305" key="GridCell.Tab.0.left" timestamp="1617723635506">
+    <state width="629" height="305" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617724641880" />
+    <state width="629" height="305" key="GridCell.Tab.0.left" timestamp="1617724641880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="305" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617723635506" />
-    <state width="629" height="305" key="GridCell.Tab.0.right" timestamp="1617723635506">
+    <state width="629" height="305" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617724641880" />
+    <state width="629" height="305" key="GridCell.Tab.0.right" timestamp="1617724641880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="305" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617723635506" />
+    <state width="629" height="305" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617724641880" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1617723927786">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1617723927786" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1617724201983">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1617724252640">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1617724201983" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1617724252640" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1617723588772">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
